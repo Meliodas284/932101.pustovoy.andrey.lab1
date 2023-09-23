@@ -1,0 +1,104 @@
+* {
+	margin: 0;
+	color: white;
+}
+
+header {
+	text-align: center;
+	background-color: green;
+}
+
+.header-text {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.content {
+	background-color: blue;
+	width: 33%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.container {
+	padding: 20px;
+}
+
+.text-block {
+	margin: 15px 0 10px 0;
+}
+
+.square {
+	background-color: blue;
+	width: 70px;
+	height: 70px;
+	border: 3.5px solid white;
+	border-radius: 15% 0 15% 0;
+	float: left;
+	margin: 0px 15px 15px 0px;
+}
+
+.text-block p {
+	font-size: 14px;
+}
+
+.link-block {
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+.link-block a {
+	color: red;
+}
+
+.list-block h2 {
+	word-spacing: 8px;
+}
+
+.list-block h2 span {
+	color: red;
+}
+
+.list-block ul li {
+	margin-bottom: 5px;
+}
+
+.list-block ul li:nth-child(2n) {
+	letter-spacing: 5px;
+	color: #00ffff;
+}
+
+.visual-style-block p {
+	margin-top: 8px;
+}
+
+.right-block {
+	float: right;
+}
+
+.right-block table {
+	width: 120px;
+	height: 100px;
+	border: 1px solid white;
+}
+
+.right-block table td {
+	border: 1px solid white;
+	text-align: center;
+	vertical-align: bottom;
+}
+
+.right-block img {
+	margin-top: 15px;
+	float: right;
+}
+
+footer {
+	text-align: center;
+	background-color: green;
+}
+
+.footer-text {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
